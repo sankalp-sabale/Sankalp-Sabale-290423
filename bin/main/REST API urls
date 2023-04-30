@@ -1,0 +1,2 @@
+task 1 : get customer info
+url  : http://localhost:8080/customer/getCustomers
